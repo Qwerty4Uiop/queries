@@ -1,0 +1,2 @@
+# Description
+Displays information about employees who have at least 3 letters in the name that are also found in the surname. The comparsion is case-insensitive. Letters are displayed in alphabetical order.
