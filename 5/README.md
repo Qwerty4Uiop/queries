@@ -9,4 +9,4 @@ Result:
 
 The result rows are not duplicated.  
 The result is ordered by employee ID.  
-For identical letters, employee IDs, namesand surnames are displayed in a comma-separated list.
+For identical letters, employee IDs, names and surnames are displayed in a comma-separated list.
