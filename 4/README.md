@@ -11,7 +11,7 @@ The result is ordered:
 1. By the year of employment in ascending order.
 2. By employee's ID in ascending order.
 # Example
-In 1987, 3 employees were employed by the company:
+In 1987, 3 employees were employed by the company:  
 | Employee ID | Last name | Salary |
 |:-----------:|-----------|:------:|
 | 100 | King | 24000 |
