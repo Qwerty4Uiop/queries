@@ -12,10 +12,10 @@ The result is ordered:
 2. By employee's ID in ascending order.
 # Example
 In 1987, 3 employees were employed by the company:  
-| Employee ID | Last name | Salary |
-|:-----------:|-----------|:------:|
-| 100 | King | 24000 |
-| 200 | Whalen | 4400 |
-| 207 | Smith | 4400 |
+| Employee ID | Last name | Salary |  
+|:-----------:|-----------|:------:|  
+| 100 | King | 24000 |  
+| 200 | Whalen | 4400 |  
+| 207 | Smith | 4400 |  
 King is given the first place, because he has the largest salary.  
 Whalen and Smith have the same salaries, less than King's. But, the Whalen's ID is less than the Smith's, so Whalen is assigned the second place, and Smith is the third.  
