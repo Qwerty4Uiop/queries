@@ -5,4 +5,4 @@ The script determines the sum of the digits in an arbitrary character string. If
 |---|---|
 | t29h8n3m7l88g799999999999927 | 7 |
 
-Explanation: the sum of all the digits in the source line is 169; 1 + 6 + 9 = 16; 1 + 6 = 7.
+Explanation: the sum of all the digits in the source string is 169; 1 + 6 + 9 = 16; 1 + 6 = 7.
